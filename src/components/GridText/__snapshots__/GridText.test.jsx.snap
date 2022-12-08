@@ -86,11 +86,11 @@ exports[`<GridText /> should render grid section 1`] = `
         >
           My grid
         </h2>
-        <p
+        <div
           class="c5"
         >
           Lorem ipsum dolor, sit amet consectetur adipisicing elit. Sed, repellendus nobis? Id placeat, adipisci minus dicta, nisi quasi iste nostrum ratione voluptatem error repellat veritatis doloremque quaerat temporibus quidem accusantium.
-        </p>
+        </div>
         <div
           class="c6"
         >
@@ -102,11 +102,11 @@ exports[`<GridText /> should render grid section 1`] = `
             >
               Teste 1
             </h3>
-            <p
+            <div
               class="c5"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur harum voluptas assumenda, dignissimos sapiente voluptatem amet, consequatur, inventore facere rerum tempore. Iusto veniam ut et odio. Sapiente exercitationem eum inventore.
-            </p>
+              [object Object]
+            </div>
           </div>
           <div
             class="c7"
@@ -116,11 +116,11 @@ exports[`<GridText /> should render grid section 1`] = `
             >
               Teste 2
             </h3>
-            <p
+            <div
               class="c5"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur harum voluptas assumenda, dignissimos sapiente voluptatem amet, consequatur, inventore facere rerum tempore. Iusto veniam ut et odio. Sapiente exercitationem eum inventore.
-            </p>
+              [object Object]
+            </div>
           </div>
           <div
             class="c7"
@@ -130,11 +130,11 @@ exports[`<GridText /> should render grid section 1`] = `
             >
               Teste 3
             </h3>
-            <p
+            <div
               class="c5"
             >
-              Lorem ipsum dolor sit amet consectetur adipisicing elit. Consequuntur harum voluptas assumenda, dignissimos sapiente voluptatem amet, consequatur, inventore facere rerum tempore. Iusto veniam ut et odio. Sapiente exercitationem eum inventore.
-            </p>
+              [object Object]
+            </div>
           </div>
         </div>
       </div>

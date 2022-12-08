@@ -1,10 +1,9 @@
+/* eslint-disable no-unused-vars */
 import { Heading } from '../../components/Heading';
+import { Base } from '../Base';
+import { mockBase } from '../Base/stories';
 import * as Styled from './styles';
 
 export function Home() {
-  return (
-    <Styled.Wrapper>
-      <Heading>Oi</Heading>
-    </Styled.Wrapper>
-  );
+  return <Base {...mockBase} />;
 }
