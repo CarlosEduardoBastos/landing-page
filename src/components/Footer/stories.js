@@ -3,7 +3,7 @@ export default {
   title: 'Footer',
   component: Footer,
   args: {
-    html: 'Footer',
+    footerHtml: 'Footer',
   },
 };
 
